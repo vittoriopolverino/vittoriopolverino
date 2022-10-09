@@ -1,2 +1,3 @@
 ## Hello 👋 World 🌍  
-I'm Vittorio, lifelong data enthusiast and Data Engineer
+I'm Vittorio, a passionate Data Engineer from Italy 🍕🍝🤏
+
