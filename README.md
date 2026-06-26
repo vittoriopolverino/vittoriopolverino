@@ -1,3 +1,3 @@
 ## Hello 👋 World 🌍  
-I'm Vittorio, a passionate Data Engineer from Italy 🍕🍝🤏
+I'm Vittorio, ask me about data stuff or the right amount of pizza 🍕🍝🤏
 
