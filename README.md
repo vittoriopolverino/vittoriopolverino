@@ -1,3 +1,3 @@
 ## Hello 👋 World 🌍  
-I'm Vittorio, ask me about data stuff or for the maximum amount of pizza it's humanly possible to eat in a single sitting. 🍕🍝
+I'm Vittorio, ask me about data stuff or if you wanna know the absolute limit of pizza a human can crush in one sitting 🍕🍝
 
