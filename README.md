@@ -1,3 +1,2 @@
 ## Hello 👋 World 🌍  
-I'm Vittorio, ask me about data stuff or if you wanna know the absolute limit of pizza a human can crush in one sitting 🍕🍝
-
+I'm Vittorio! Reach out if you want to talk data stuff, or if you're down to test the theoretical limit of how much pizza one person can crush in a single sitting 🍕
